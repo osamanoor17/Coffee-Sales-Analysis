@@ -74,7 +74,6 @@ This repository contains a Power BI project analyzing coffee shop sales data. Th
 4. Analyze the insights generated using Power BI visuals.
 
 ## Author
-- **Your Name**
 - [LinkedIn Profile](https://www.linkedin.com/in/mosamanoor/)
 
 ## License
